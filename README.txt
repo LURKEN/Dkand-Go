@@ -6,7 +6,7 @@ ATMClient.go		The Client, it connects to the server, you need to configure the I
 fileHandler.go		The FileHandler, read and writes to clients.txt(where the clients are stored)
 main.go				The Main, connects server and filehandler, run this to start the server!
 
-On a windows machine you can rune the Compile(...).bat files to compile the project.
+On a windows machine you can run the Compile(...).bat files to compile the project.
 You need to install the Go windows runtime first though.
 
 Any questions? Ask Google. Or maybe maybe me.
